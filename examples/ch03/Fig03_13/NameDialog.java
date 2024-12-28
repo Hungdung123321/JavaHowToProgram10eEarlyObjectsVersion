@@ -11,7 +11,7 @@ public class NameDialog
       
       // create the message
       String message =                                              
-         String.format("Welcome, %s, to Java Programming!", name);
+         String.format("sadsaddsdsadsadsasadasdsads, %s, to Java Programming!", name);
 
       // display the message to welcome the user by name 
       JOptionPane.showMessageDialog(null, message);
